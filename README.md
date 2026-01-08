@@ -6,7 +6,7 @@ This is my first html css practice project
 - style.css
 
 ## Preview
-![Project Screenshot](Ric.png)
+![Project Screenshot](RIC.png)
 
 ## Technologies Used
 - HTML5
