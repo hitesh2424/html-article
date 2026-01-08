@@ -1,0 +1,126 @@
+header {
+
+    text-align: end;
+    
+}
+
+body {
+    background-color: rgb(207, 243, 231);
+}
+
+h1{
+    text-align: center;
+    color: rgb(255, 0, 0);
+
+    font-weight: 900;
+
+    letter-spacing: 8px;
+
+    font-size: 300%;
+
+    font-family: Georgia ,Papyrus, aerial, aerialblack, sans-serif, monospace;
+   
+}
+
+main {
+     text-align: center;
+
+     line-height: 2.00;
+
+     font-family: Papyrus, Georgia, 'Times New Roman', Times, serif;
+
+     font-weight: bold;
+}
+
+nav u {
+    text-align: center;
+
+    text-decoration: none;
+}
+
+a {
+   text-decoration: none;
+}
+
+article h2{
+    text-align: center;
+    color: rgb(55, 60, 58);
+
+    text-decoration: double overline; 
+
+    letter-spacing: 4px;
+     
+}
+
+article {
+    line-height: 1.5;
+}
+
+p i u{
+    color: rgb(84, 13, 13);
+
+    font-weight: bolder;
+}
+
+article img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: 600px;
+}
+
+p {
+    text-align: justify;
+}
+
+aside {
+    border: solid;
+    text-align: start;
+    width: 18%;
+    color: rgb(20, 22, 22);
+
+    line-height: 150%;
+   
+}
+
+aside h3 {
+    text-align: center;
+    color: rgba(201, 18, 18, 0.796);
+
+    text-decoration: double underline;
+
+    font-weight: normal;
+}
+
+footer ul{
+    border: solid;
+    text-align:start;
+    width: 16%;
+
+    line-height: 30px;
+
+    letter-spacing: normal;
+}
+
+footer h3{
+   color: rgba(201, 18, 18, 0.796) ;
+   text-align: center;
+
+   text-decoration: double underline;
+
+   font-weight: normal;
+}
+
+h4{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    
+    text-decoration: double underline;
+
+    letter-spacing: 2px;
+
+    font-family: Tahoma ,century ,Arial, Helvetica, sans-serif;
+
+
+}
